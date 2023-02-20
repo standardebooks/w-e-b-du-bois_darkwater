@@ -41,11 +41,11 @@
 		<meta property="term" refines="#subject-1">sh85001932</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85140494</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
+		<dc:description id="description">A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow era America.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;In &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk"&gt;&lt;i&gt;The Souls of Black Folk&lt;/i&gt;&lt;/a&gt;, the sociologist &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois"&gt;W. E. B. Du Bois&lt;/a&gt; introduced the concept of a “veil” that separates the inner lives of black Americans from their white counterparts. &lt;i&gt;Darkwater: Voices from Within the Veil&lt;/i&gt; is a collection of essays, poems, and short fiction that attempts to provide a nuanced look behind the veil at the lives of black Americans and give voice to their often neglected concerns. Written in 1920 during a time when racial tension had been codified into the infamous Jim Crow laws, Du Bois touches on a wide range of topics ranging from colonialism, to race riots, education, religion, woman suffrage, and socialism.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15210</dc:source>
