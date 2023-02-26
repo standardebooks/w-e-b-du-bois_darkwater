@@ -45,7 +45,8 @@ section[epub|type~="dedication"] > *{
 	text-indent: -1em;
 }
 
-[epub|type~="z3998:poem"] p > span + br{
+[epub|type~="z3998:poem"] p > span + br,
+[epub|type~="z3998:verse"] p > span + br{
 	display: none;
 }
 
