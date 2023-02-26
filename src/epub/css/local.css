@@ -102,10 +102,11 @@ q{
 	font-style: italic;
 }
 
-#chapter-1 q{
-	padding-left: 2em;
-}
-
 ul{
 	list-style-type: none;
+}
+
+p.response{
+	font-style: italic;
+	padding-left: 2em;
 }
