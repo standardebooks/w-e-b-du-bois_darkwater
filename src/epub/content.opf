@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-02-27T20:18:10Z</dc:date>
+		<meta property="dcterms:modified">2023-02-27T20:18:10Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -32,9 +32,9 @@
 		<dc:title id="subtitle">Voices from Within the Veil</dc:title>
 		<meta property="file-as" refines="#subtitle">Voices from Within the Veil</meta>
 		<dc:title id="fulltitle">Darkwater: Voices from Within the Veil</dc:title>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<meta property="file-as" refines="#fulltitle">Darkwater: Voices from Within the Veil</meta>
 		<meta property="title-type" refines="#fulltitle">extended</meta>
-		<meta property="title-type" refines="#subtitle">subtitle</meta>
 		<dc:subject id="subject-1">African Americans</dc:subject>
 		<dc:subject id="subject-2">United States -- Race relations</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -43,7 +43,7 @@
 		<meta property="term" refines="#subject-2">sh85140494</meta>
 		<meta property="se:subject">Nonfiction</meta>
 		<meta property="se:subject">Philosophy</meta>
-		<dc:description id="description">A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow era America.</dc:description>
+		<dc:description id="description">A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;In &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk"&gt;&lt;i&gt;The Souls of Black Folk&lt;/i&gt;&lt;/a&gt; the sociologist &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois"&gt;W. E. B. Du Bois&lt;/a&gt; introduced the concept of the “veil,” a separation of the inner lives of black Americans from their white counterparts. &lt;i&gt;Darkwater: Voices from Within the Veil&lt;/i&gt; is a collection of essays, poems, and short fiction that attempts to provide a nuanced look behind the veil at the lives of black Americans and to give voice to their often neglected concerns.&lt;/p&gt;
 			&lt;p&gt;Written in the aftermath of the First World War, seventeen years after &lt;i&gt;The Souls of Black Folk&lt;/i&gt; and during a time when racial tension had been codified into the infamous Jim Crow laws, Du Bois touches on a wide range of topics, from the philosophical to the concrete. His over-arching message is a desire for equality. He argues strongly against colonialism, excessive materialism, and Jim Crow, and discusses how only proper education and universal suffrage can provide the foundation for a more fair society. The unique combination of different writing styles on display vividly captures both his frustration and his belief in the possibility of a future shared on an equal basis between people of all colors.&lt;/p&gt;
@@ -51,9 +51,8 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15210</dc:source>
 		<dc:source>https://archive.org/details/darkwatervoicesf00duborich</dc:source>
-		<meta property="se:production-notes">Certain archaic spellings maintained in poems.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">67889</meta>
+		<meta property="se:reading-ease.flesch">67.89</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Darkwater</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/w-e-b-du-bois_darkwater</meta>
 		<dc:creator id="author">W. E. B. Du Bois</dc:creator>
@@ -87,6 +86,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Grigg</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Grigg, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://thegriggs.org/david/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
