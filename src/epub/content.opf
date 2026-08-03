@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/w-e-b-du-bois/darkwater</dc:identifier>
 		<dc:date>2023-02-27T20:18:10Z</dc:date>
@@ -45,11 +45,11 @@
 		<meta property="term" refines="#subject-2">sh85140494</meta>
 		<meta property="schema:genre">Nonfiction</meta>
 		<meta property="schema:genre">Philosophy</meta>
-		<dc:description id="description">A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of essays, short fiction, and poetry related to the lives of black people in Jim Crow-era America.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;In &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois/the-souls-of-black-folk"&gt;&lt;i&gt;The Souls of Black Folk&lt;/i&gt;&lt;/a&gt; the sociologist &lt;a href="https://standardebooks.org/ebooks/w-e-b-du-bois"&gt;W. E. B. Du Bois&lt;/a&gt; introduced the concept of the “veil,” a separation of the inner lives of black Americans from their white counterparts. &lt;i&gt;Darkwater: Voices from Within the Veil&lt;/i&gt; is a collection of essays, poems, and short fiction that attempts to provide a nuanced look behind the veil at the lives of black Americans and to give voice to their often neglected concerns.&lt;/p&gt;
 			&lt;p&gt;Written in the aftermath of the First World War, seventeen years after &lt;i&gt;The Souls of Black Folk&lt;/i&gt; and during a time when racial tension had been codified into the infamous Jim Crow laws, Du Bois touches on a wide range of topics, from the philosophical to the concrete. His over-arching message is a desire for equality. He argues strongly against colonialism, excessive materialism, and Jim Crow, and discusses how only proper education and universal suffrage can provide the foundation for a more fair society. The unique combination of different writing styles on display vividly captures both his frustration and his belief in the possibility of a future shared on an equal basis between people of all colors.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/15210</dc:source>
 		<dc:source>https://archive.org/details/darkwatervoicesf00duborich</dc:source>
