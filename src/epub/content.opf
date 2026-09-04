@@ -38,7 +38,7 @@
 		<meta property="file-as" refines="#fulltitle">Darkwater: Voices from Within the Veil</meta>
 		<meta property="title-type" refines="#fulltitle">expanded</meta>
 		<dc:subject id="subject-1">African Americans</dc:subject>
-		<dc:subject id="subject-2">United States -- Race relations</dc:subject>
+		<dc:subject id="subject-2">United States--Race relations</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85001932</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
